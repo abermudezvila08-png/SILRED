@@ -1,0 +1,16 @@
+# LICENCIA PÚBLICA SILRED CON CLÁUSULA ÉTICA DE PROTECCIÓN HUMANA (SILRED-EPL-1.0)
+Copyright (c) 2026 Verbum Tech Solution
+
+Por la presente se otorga permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), para utilizar, copiar, modificar, fusionar, publicar y distribuir copias del Software, sujeto estrictamente a las siguientes condiciones inquebrantables:
+
+1. CLÁUSULA ÉTICA MANDATORIA Y LÍMITES DE USO (ANTI-DAÑO)
+El uso, copia, modificación o distribución de este Software está condicionado de manera absoluta a que NO sea utilizado, directa o indirectamente, para fines que vulneren la vida, dignidad o integridad física de los seres humanos.
+
+Queda estrictamente prohibida y revocada de pleno derecho cualquier licencia para usar el Software en sistemas, subcomponentes o infraestructuras destinados a:
+- Selección de objetivos vivos (identificar, rastrear o perfilar personas para causarles daño).
+- Dirección u optimización de fuerza letal (armas, drones ofensivos o sistemas de ataque).
+- Recomendación de acciones hostiles o bélicas.
+- Sustitución de la responsabilidad humana en el uso de la fuerza.
+
+Cualquier uso que contravenga estos fines anula retroactivamente el permiso otorgado por esta licencia.
+
