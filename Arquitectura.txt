@@ -1,0 +1,8 @@
+# Arquitectura Limpia - Estructura del Núcleo SILRED
+
+El sistema se divide en capas puras desacopladas para garantizar estabilidad y seguridad:
+
+- **Layer 1: Domain (Dominio)** -> Contiene las entidades puras y las reglas de negocio inmutables. No depende de bases de datos ni de frameworks externos.
+- **Layer 2: Application (Aplicación)** -> Implementa los casos de uso específicos (ej. calcular rutas logísticas óptimas, distribuir recursos).
+- **Layer 3: Infrastructure (Infraestructura)** -> Gestiona las conexiones reales: la base de datos PostgreSQL, las APIs de mapas y las interfaces de usuario.
+
