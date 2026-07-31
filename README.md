@@ -1,4 +1,24 @@
 SILRED
+<div align="center">
+  <!-- BANNER PRINCIPAL MÓVIL -->
+  <img src="https://img.shields.io/badge/SILRED-SISTEMA_INTELIGENTE-121212?style=for-the-badge&logoColor=FFD700&labelColor=121212" alt="SILRED" width="100%">
+  <br>
+  <img src="https://img.shields.io/badge/LOGÍSTICA_Y_RESILIENCIA-VERBUM_TECH_SOLUTION-FF6B00?style=flat-square&color=FF6B00" alt="Iniciativa">
+  <img src="https://img.shields.io/badge/ESTADO-FASE_0__FUNDACIÓN-FFD700?style=flat-square&color=FFD700" alt="Estado">
+</div>
+
+---
+
+### 🧭 Principio Fundacional
+
+> **«La mejor eficiencia no consiste en producir más resultados mediante el uso de mayor fuerza, sino en evitar que la falta de información, coordinación y previsión convierta una situación controlable en una crisis.»**
+
+**SILRED no busca hacer más eficiente el daño. Busca hacer más inteligente la protección.**
+
+---
+
+### 🧩 Arquitectura Modular
+
 
 > **Sistema Inteligente de Logística, Resiliencia y Eficiencia Operacional**  
 > *«Inteligencia para anticipar, logística para responder y tecnología para proteger.»*
